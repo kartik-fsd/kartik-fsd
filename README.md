@@ -1,3 +1,7 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C5D6D9&height=120&section=header"/>
+</a>
+
 <h1 align="center"># Hi there, I'm Kartik Shettar! 👋</h1>
 <h3 align="center">Passionate Full Stack Developer | Frontend Enthusiast </h3>
 
@@ -82,13 +86,17 @@
 
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik-fsd&show_icons=true&locale=en&layout=compact" alt="kartik-fsd" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kartik-fsd&theme=midnight-purple&hide_border=true&center=true&show_icons=true&locale=en&layout=compact" alt="kartik-fsd" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-fsd&show_icons=true&locale=en" alt="kartik-fsd" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kartik-fsd&theme=midnight-purple&hide_border=true&center=true&show_icons=true&locale=en" alt="kartik-fsd" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-fsd&" alt="kartik-fsd" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kartik-fsd&theme=midnight-purple&hide_border=true&center=true&" alt="kartik-fsd" />
 </p>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C5D6D9&height=120&section=footer"/>
+</a>
