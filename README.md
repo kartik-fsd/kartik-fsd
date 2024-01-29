@@ -10,7 +10,7 @@
 </p>
 
 - 🔭 I’m currently working on **Dynamic Dashboard & Ecommerce-Store**
-- 🌱 I’m currently learning **Next.js  Typescript**
+- 🌱 I’m currently learning **Next.js  Typescript React-Native**
 - 👨‍💻 All of my projects are available at [https://kartik-devloper.netlify.app/](https://kartik-devloper.netlify.app/)
 - 📫 How to reach me: **1kartikshettar@gmail.com**
 
